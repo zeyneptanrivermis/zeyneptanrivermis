@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer engineering student at Akdeniz University.<br>I am currently learning Java.
+I am a computer engineering student at Akdeniz University.<br>I am currently learning Java and Android Studio.
 
 
 ## 🌐 Socials:
