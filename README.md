@@ -15,9 +15,6 @@ I am a computer engineering student at Akdeniz University.<br>I am currently lea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zeyneptanrivermis&theme=material-palenight&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zeyneptanrivermis&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=zeyneptanrivermis&icon=9&color=10)](https://visitcount.itsvg.in)
 
