@@ -74,26 +74,6 @@ I’m currently working on improving my skills in full stack and mobile applicat
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=zeyneptanrivermis&show_icons=true&theme=radical&hide_border=true"
-  height="170"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneptanrivermis&layout=compact&theme=radical&hide_border=true"
-  height="170"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
 ## GitHub Streak
 
 <div align="center">
