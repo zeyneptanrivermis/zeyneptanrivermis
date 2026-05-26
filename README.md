@@ -16,7 +16,7 @@
 
 I’m currently working on improving my skills in full stack and mobile application development through practical projects. I focus on building simple, useful, and user-friendly applications while gaining more experience with real-world software development. I enjoy turning ideas into projects and improving them over time.
 
-- 📫 How to reach me: **zeyneptanrivermisss@gmail.com**
+- How to reach me: **zeyneptanrivermisss@gmail.com**
 
 ---
 
@@ -79,13 +79,13 @@ I’m currently working on improving my skills in full stack and mobile applicat
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=zeyneptanrivermis&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F4B6C2&text_color=F8D7E3&icon_color=F4B6C2&border_radius=10&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api?username=zeyneptanrivermis&show_icons=true&theme=radical&hide_border=true"
   height="170"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneptanrivermis&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4B6C2&text_color=F8D7E3&border_radius=10&cache_seconds=1800"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneptanrivermis&layout=compact&theme=radical&hide_border=true"
   height="170"
   alt="Top Languages"
 />
