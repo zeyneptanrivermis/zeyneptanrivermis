@@ -5,7 +5,7 @@
 ### Computer Engineering Student | Full Stack & Mobile Developer
 
 <p>
-  I’m interested in full stack development and mobile application development.
+  Interested in full stack development, mobile application development, and building useful projects.
 </p>
 
 </div>
@@ -14,10 +14,8 @@
 
 ## About Me
 
-I’m currently working on improving my skills in full stack and mobile application development through practical projects.  
-I focus on building simple, useful, and user-friendly applications while gaining more experience with real-world software development.  
-I enjoy turning ideas into small projects and improving them over time.
- 
+I’m currently working on improving my skills in full stack and mobile application development through practical projects. I focus on building simple, useful, and user-friendly applications while gaining more experience with real-world software development. I enjoy turning ideas into projects and improving them over time.
+
 - 📫 How to reach me: **zeyneptanrivermisss@gmail.com**
 
 ---
@@ -26,13 +24,13 @@ I enjoy turning ideas into small projects and improving them over time.
 
 <p align="left">
   <a href="https://github.com/zeyneptanrivermis" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-F4B6C2?style=for-the-badge&logo=github&logoColor=1a1b27" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/zeyneptanrivermis" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/zeyneptanrivermis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-F4B6C2?style=for-the-badge&logo=linkedin&logoColor=1a1b27" alt="LinkedIn" />
   </a>
   <a href="mailto:zeyneptanrivermisss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-f4a6c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-F4B6C2?style=for-the-badge&logo=gmail&logoColor=1a1b27" alt="Email" />
   </a>
 </p>
 
@@ -80,16 +78,16 @@ I enjoy turning ideas into small projects and improving them over time.
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=zeyneptanrivermis&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff8fab&text_color=f8d7e8&icon_color=ff8fab" 
-  height="170" 
-  alt="GitHub Stats" 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=zeyneptanrivermis&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F4B6C2&text_color=F8D7E3&icon_color=F4B6C2&border_radius=10&cache_seconds=1800"
+  height="170"
+  alt="GitHub Stats"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneptanrivermis&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff8fab&text_color=f8d7e8" 
-  height="170" 
-  alt="Top Languages" 
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeyneptanrivermis&layout=compact&hide_border=true&bg_color=0d1117&title_color=F4B6C2&text_color=F8D7E3&border_radius=10&cache_seconds=1800"
+  height="170"
+  alt="Top Languages"
 />
 
 </div>
@@ -100,22 +98,9 @@ I enjoy turning ideas into small projects and improving them over time.
 
 <div align="center">
 
-<img 
-  src="https://streak-stats.demolab.com?user=zeyneptanrivermis&hide_border=true&background=0D1117&stroke=FFB3C6&ring=FF8FAB&fire=FF8FAB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF8FAB&sideLabels=F8D7E8&dates=F8D7E8" 
-  alt="GitHub Streak" 
-/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=zeyneptanrivermis&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" 
-  alt="GitHub Trophies" 
+<img
+  src="https://streak-stats.demolab.com?user=zeyneptanrivermis&hide_border=true&background=0D1117&stroke=F4B6C2&ring=F4B6C2&fire=F4B6C2&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F4B6C2&sideLabels=F8D7E3&dates=F8D7E3&border_radius=10"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -126,11 +111,17 @@ I enjoy turning ideas into small projects and improving them over time.
 
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=zeyneptanrivermis&bg_color=0d1117&color=f8d7e8&line=ff8fab&point=ffc2d1&area=true&hide_border=true" 
-  alt="GitHub Activity Graph" 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=zeyneptanrivermis&bg_color=0d1117&color=F8D7E3&line=F4B6C2&point=F4B6C2&area=true&hide_border=true"
+  alt="GitHub Activity Graph"
 />
 
 </div>
 
 ---
+
+<div align="center">
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F4B6C2&section=footer"/>
